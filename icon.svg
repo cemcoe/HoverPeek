@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <!-- 外层圆 -->
+  <circle cx="64" cy="64" r="64" fill="#F0F0F0"></circle>
+  
+  <!-- Chrome 三色分区 -->
+  <path d="M64 64 L64 0 A64 64 0 0 1 128 64 Z" fill="#DB4437"></path>
+  <path d="M64 64 L128 64 A64 64 0 0 1 64 128 Z" fill="#0F9D58"></path>
+  <path d="M64 64 L64 128 A64 64 0 0 1 0 64 Z" fill="#F4B400"></path>
+  
+  <!-- 中心圆 -->
+  <circle cx="64" cy="64" r="24" fill="#4285F4"></circle>
+</svg>

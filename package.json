@@ -1,0 +1,15 @@
+{
+  "name": "hoverpeek",
+  "version": "1.0.0",
+  "description": "**HoverPeek Sidepanel** 是一个浏览器扩展 / 插件，允许用户在 **hover（悬停）链接时**，在侧边面板预览网页内容。它支持跨域预览，保留网页样式和脚本，并美化滚动条。",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.34.3"
+  }
+}
